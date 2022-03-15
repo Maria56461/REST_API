@@ -1,9 +1,9 @@
 
-Maria-Alexandra Barbu, 325CD
-Tema 3- Protocoale de comunicatii- Client Web. Comunicatie cu REST API
+## Maria-Alexandra Barbu, 325CD
+# Tema 3- Protocoale de comunicatii- Client Web. Comunicatie cu REST API
 -------------------------------------------------------------------------------
 
-	Am folosit "telnet" ca sa gasesc forma corecta a fiecarui tip de cerere.
+Am folosit "telnet" ca sa gasesc forma corecta a fiecarui tip de cerere.
 Fisierele "buffer.c", "helpers.c", "helpers.h", le-am luat din Laboratorul 10.
 Pentru fiecare tip de cerere am construit o functie. Nu am folosit o anumita 
 biblioteca de parsare JSON, ci am folosit "sprintf" pentru a compune mesajul.
